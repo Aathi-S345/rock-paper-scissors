@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Rock Paper Scissors</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="rps-container">
+    <div class="rps-card">
+      <h1>Rock Paper Scissors</h1>
+      <div class="choices">
+        <button class="choice-btn" data-move="rock">🗿<span>Rock</span></button>
+        <button class="choice-btn" data-move="paper">📃<span>Paper</span></button>
+        <button class="choice-btn" data-move="scissors">✂️<span>Scissors</span></button>
+      </div>
+      <div class="status">
+        <div>Round: <span id="round-display"></span></div>
+        <div class="win-row">
+          <span>Your wins: <span id="player-wins">0</span></span>
+          <span>Computer wins: <span id="computer-wins">0</span></span>
+        </div>
+        <div id="last-round-winner" style="margin-top:10px; font-weight:bold; font-style:italic;"></div>
+        <div class="picks-row">
+          <div id="player-choice">You picked: <span></span></div>
+          <div id="computer-choice">Computer picked: <span></span></div>
+        </div>
+      </div>
+      <div id="result-message"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

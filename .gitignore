@@ -1,0 +1,20 @@
+# System files (Windows/macOS/Linux)
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*~
+
+# Log files
+*.log
+
+# Dependency directories
+node_modules/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Environment/config
+.env
