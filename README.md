@@ -1,8 +1,16 @@
 # Rock Paper Scissors Game
 
 A blazing-fast, mobile-ready Rock-Paper-Scissors game you can play right in your browser.
+Play, fork, and improve this simple fun game!
 
-## 🚀 Quick Start
+---
+
+##  Live Demo
+
+Play the Rock-Paper-Scissors game online here:  
+🎮 [https://Aathi-S345.github.io/rock-paper-scissors/](https://Aathi-S345.github.io/rock-paper-scissors/)
+
+##  Quick Start
 
 1. **Clone or Download** this repo.
 2. **Open** `index.html` in your browser.
@@ -16,7 +24,7 @@ A blazing-fast, mobile-ready Rock-Paper-Scissors game you can play right in your
 - **Optimized Assets:** Compressed images and efficient code
 - **Accessible:** Keyboard & screen reader support
 
-## 💡 Tech Stack
+##  Tech Stack
 
 | Tech      | Use                              |
 |-----------|----------------------------------|
@@ -38,7 +46,7 @@ project-root/
 └── .gitignore
 
 
-## 🛠️ Optimization Checklist
+##  Optimization Checklist
 
 - All file paths are **relative**
 - Images are **compressed** & under 1 MB
@@ -46,9 +54,16 @@ project-root/
 - README is simple, clear, and helpful
 - `.gitignore` keeps repo clean
 
-## ✨ Enjoy
+##  Enjoy
 
 Built for speed, clarity, and fun.  
 **Play. Fork. Improve. Share!**
+
+---
+
+##  Contact / Support
+
+If you have any questions or want to contribute, open an issue or submit a pull request on GitHub.  
+Happy coding! 
 
 
